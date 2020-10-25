@@ -1,6 +1,6 @@
 # QUIZZ-RPG-BOT
-Somelike "framework" for manage quizz with VK/Facebook comunity/chat bots. Basic as game with RPG text-like mechanics and communication
-OK. There is somelike "instruction".
+Something like "framework" for manage quizz with VK/Facebook/Any comunity/chat bots, but there is jus VK_bot. Basic as game with RPG text-like mechanics and communication
+OK. There is something like "instruction".
 
 For work with VK (vkAPI) you must config API KEYS and ACCESS with you app (community).
 This one in config_vk_bot.php in root. Set all stuff.
